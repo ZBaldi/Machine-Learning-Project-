@@ -1,7 +1,7 @@
 # Machine-Learning-Project-
 This repository contains a Machine Learning project developed during the first year of my Master’s degree in Computer Engineering. It focuses on applying fundamental ML techniques and concepts studied throughout the course, including data processing, model training, and evaluation.
 
-#Aim of the project
+# Aim of the project
 2.4 Track T4 – Semi-Supervised Learning (SSL)
 
 Semi-supervised learning (SSL) is a machine learning paradigm that lies between supervised and unsupervised learning, and it leverages both a small set of labeled data and a larger amount of unlabeled data.
